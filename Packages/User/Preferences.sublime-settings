@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Color Scheme - Oblivion/Oblivion.tmTheme",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"*.scssc"
+	],
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
